@@ -1,0 +1,1 @@
+Sitemap: https://gordonwoodhull.github.io/logo-slashes-test/sitemap.xml
